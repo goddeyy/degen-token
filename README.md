@@ -1,5 +1,9 @@
 ## DegenToken Smart Contract
 
+Loom Video Continuation for Hardhat test
+
+https://www.loom.com/share/5e8de8384094463daa76887619dddae7?sid=129c3ac0-fc97-42db-b940-8b3e1f796a03
+
 ### Overview
 The DegenToken smart contract is an ERC20 token with additional features for managing items and their redemption. It allows the owner to mint new tokens, set costs for items, and facilitates token transfers and item redemptions. This contract is built using Solidity and OpenZeppelin’s ERC20 implementation.
 
